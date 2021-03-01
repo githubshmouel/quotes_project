@@ -1,0 +1,7 @@
+mongodb+srv://otniel:1234@cluster0.pnnja.mongodb.net/quotesDB?retryWrites=true&w=majority
+
+npx create-react-app quotes_app
+
+
+
+mongodb+srv://otniel:otniel55@cluster0.pnnja.mongodb.net/quotesDB?retryWrites=true&w=majority
